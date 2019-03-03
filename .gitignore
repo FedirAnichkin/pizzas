@@ -14,6 +14,8 @@ Desktop.ini
 
 
 # npm
+test.js
+base.js
 node_modules
 package-lock.json
 *.log
